@@ -1,0 +1,9 @@
+logging.level:
+  com.gargoylesoftware: ERROR
+  org.apache.http.wire: ERROR
+
+taobao.api:
+  app-key: ""
+  app-secret: ""
+  app-url: "http://gw.api.taobao.com/router/rest"
+  world-url: "http://api.taobao.com/router/rest"
